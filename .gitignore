@@ -1,0 +1,9 @@
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+terraform/.terraform.lock.hcl
+node_modules/
+build/
+
+crash.log
+crash.*.log
